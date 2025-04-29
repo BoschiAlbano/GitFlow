@@ -20,7 +20,3 @@ git flow hotfix finish <v1.0.1>
 
 ######################## Desarrollador 2 ###############################
 Create a new feature.
-
-
-######################## Desarrollador 2 ###############################
-Create a new feature. depues de desarrollador 1 deberia dar error.
