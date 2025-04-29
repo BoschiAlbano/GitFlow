@@ -5,10 +5,15 @@ git flow feature finish <Nombre-de-la-rama>
 --> fucionar la ramas feature con develop
 
 
-git flow release start <V1.0.0>
+git flow release start <v1.0.0>
 git add .
 git commit -m "msj"
-git flow release finish <V1.0.0>
+git flow release finish <v1.0.0>
 --> funciona la ramas release con develop y master.
 
 
+git flow hotfix start <v1.0.1>
+git add .
+git commit -m "msj"
+git flow hotfix finish <v1.0.1>
+--> fuciona la rama hotfix con master.
