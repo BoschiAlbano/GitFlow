@@ -1,0 +1,14 @@
+git flow feature start <Nombre-de-la-rama>
+git add .
+git commit -m "msj"
+git flow feature finish <Nombre-de-la-rama>
+--> fucionar la ramas feature con develop
+
+
+git flow release start <V1.0.0>
+git add .
+git commit -m "msj"
+git flow release finish <V1.0.0>
+--> funciona la ramas release con develop y master.
+
+
