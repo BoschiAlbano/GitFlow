@@ -20,3 +20,6 @@ git flow hotfix finish <v1.0.1>
 
 ######################## Desarrollador 2 ###############################
 Create a new feature.
+
+######################## Desarrollador 1 ###############################
+Create a new feature. Desarrollador 1
