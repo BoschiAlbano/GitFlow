@@ -24,3 +24,6 @@ Create a new feature.
 
 ######################## Desarrollador 1 ###############################
 Create a new feature.
+
+######################## Desarrollador 1 ###############################
+Create a new feature. Error por que ya ahy cambios que no hice el pull antes.
